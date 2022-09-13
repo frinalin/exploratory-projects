@@ -1,0 +1,12 @@
+
+## TEX auxiliary files
+*.aux
+*.out
+*.fdb_latexmk
+*.fls 
+*.synctex.gz
+*.nav
+*.run.xml
+*.snm
+*.toc
+
