@@ -1,10 +1,10 @@
 # exploratory-projects
 
-Short, descriptive data visualizations and analysis
+Short projects, including data manipulation and cleaning, analysis, and visualizations
 
 ## aamc-pipeline
 
-#### Describes trends in outcomes over the years 1979-2020 for Black applicants to U.S. medical schools. 
+#### Trends in outcomes for Black applicants to U.S. medical schools, over the years 1979-2020.
 
 - Acceptance rates and graduation rates for Black students lag behind white and Asian peers. 
 - Medical schools associated with historically Black colleges and universities (HBCUs) continue to play an important role in graduating Black physicians. 
